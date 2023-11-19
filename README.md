@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Leandro Santa Clara 😁
+## Bem-vindo(a) ao perfil do Leandro Santa Clara
 
  <div>
    <a href="https://github.com/leandrostclara">
